@@ -104,19 +104,19 @@ The idea was to make the analysis something a business manager could actually us
 
 ### Churn by Contract
 
-![Churn by Contract](./screenshots/churn_by_contract.png)
+![Churn by Contract](.churn_by_contract.png)
 
 This comparison helps show which contract groups are more exposed to churn.
 
 ### Churn by Internet Service
 
-![Churn by Internet Service](./screenshots/churn_by_internet.png)
+![Churn by Internet Service](./churn_by_internet.png)
 
 This looks at whether churn patterns differ across service types.
 
 ### Churn by Tenure
 
-![Churn by Tenure](./screenshots/churn_by_tenure.png)
+![Churn by Tenure](./churn_by_tenure.png)
 
 This helps identify whether customers are most vulnerable early in their relationship with the company.
 
