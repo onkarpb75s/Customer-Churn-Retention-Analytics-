@@ -84,7 +84,7 @@ These numbers are based on the synthetic dataset created for this portfolio proj
 
 ## 📸 Dashboard
 
-![Customer Churn Dashboard](./screenshots/customer_churn_dashboard.png)
+![Customer Churn Dashboard](./customer_churn_dashboard.png)
 
 The dashboard gives a quick view of:
 
